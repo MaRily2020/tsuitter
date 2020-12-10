@@ -1,0 +1,47 @@
+
+body{
+    background-color: honeydew;
+    color: navy;
+}
+header span.header{
+//    border: gray solid 1px;
+    padding-top: 2px:
+    margin-top:5px;
+    font-size:1.15rem;
+    text-decoration: none; 
+    font-weight:bold;   
+    color:#009999; 
+    background:linear-gradient(transparent 60%, #99ffff 60%);
+}
+article{
+    margin: 5;
+    padding: 10, 5;
+}
+footer{
+    text-align: center;
+}
+div.logo{
+    width: 100%;
+    text-align: center;
+}
+img.logo{
+    width: 50%;
+    height: 50%;
+}
+
+h2{
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: slategrey solid 2px;
+    border-bottom: black double 2px;
+}
+h3::before{
+    content: "☑";
+}
+article p{
+    text-indent: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1.2rem;
+    line-height:185%;
+  }

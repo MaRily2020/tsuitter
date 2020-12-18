@@ -44,4 +44,7 @@ article p{
     margin-top: 1rem;
     margin-bottom: 1.2rem;
     line-height:185%;
-  }
+}
+article s{
+    color: gray;
+}
